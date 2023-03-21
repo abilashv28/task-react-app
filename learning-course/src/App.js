@@ -1,10 +1,12 @@
+//import logo from './logo.svg';
+import Defaultcourse from './Defaultcourse'
 import './App.css';
-import defaultcourse from './defaultcouses';
 
 function App() {
   return (
     <div className="App">
-   <defaultcourse />
+      <Defaultcourse/>
+
     </div>
   );
 }
